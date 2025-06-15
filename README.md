@@ -28,7 +28,7 @@ This interactive **HR Analytics Dashboard** provides a comprehensive view of emp
 - Highest paying roles include **Finance Manager**, **IT Manager**, and **Operations Manager**
 
 #### 📋 **Employee Directory**
-![HR Employee List](/HR-Analytics-Dashboard/screenshots/01_HR_details.jpg)
+![HR Employee List](/HR-Analytics-Dashboard/screenshots/03_HR_details.jpg)
 - View all employee details: demographics, job role, salary, location, hire date, and tenure
 - Filters to drill down by department, age group, education, and geography
 
