@@ -69,7 +69,7 @@ This interactive **HR Analytics Dashboard** provides a comprehensive view of emp
 ---
 
 ### 📬 Connect With Me
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jaishree-gandhi-ab5498357/))  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jaishree-gandhi-ab5498357/) 
 📧 Email: gjaishree2@gmail.com
 
 ---
